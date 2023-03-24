@@ -1,0 +1,986 @@
+{
+    "form": [
+        {
+            "box": [
+                329,
+                77,
+                80,
+                14
+            ],
+            "text": "EMPLOYEE NAME",
+            "label": "question",
+            "linking": [
+                0,
+                14
+            ],
+            "id": 0,
+            "words": [
+                {
+                    "box": [
+                        329,
+                        77,
+                        80,
+                        14
+                    ],
+                    "text": "EMPLOYEE"
+                },
+                {
+                    "box": [
+                        329,
+                        77,
+                        80,
+                        16
+                    ],
+                    "text": "NAME"
+                }
+            ]
+        },
+        {
+            "box": [
+                641,
+                77,
+                80,
+                12
+            ],
+            "text": "PROCESS DATE",
+            "label": "question",
+            "linking": [
+                1,
+                17
+            ],
+            "id": 1,
+            "words": [
+                {
+                    "box": [
+                        641,
+                        77,
+                        80,
+                        12
+                    ],
+                    "text": "PROCESS"
+                },
+                {
+                    "box": [
+                        641,
+                        77,
+                        80,
+                        12
+                    ],
+                    "text": "DATE"
+                }
+            ]
+        },
+        {
+            "box": [
+                611,
+                177,
+                60,
+                13
+            ],
+            "text": "NATIONAL INSURANCE NO.",
+            "label": "question",
+            "linking": [
+                2,
+                18
+            ],
+            "id": 2,
+            "words": [
+                {
+                    "box": [
+                        611,
+                        177,
+                        60,
+                        13
+                    ],
+                    "text": "NATIONAL"
+                },
+                {
+                    "box": [
+                        611,
+                        177,
+                        60,
+                        13
+                    ],
+                    "text": "INSURANCE"
+                },
+                {
+                    "box": [
+                        611,
+                        177,
+                        60,
+                        13
+                    ],
+                    "text": "NO."
+                }
+            ]
+        },
+        {
+            "box": [
+                43,
+                155,
+                80,
+                30
+            ],
+            "text": "Basic Pay",
+            "label": "question",
+            "linking": [
+                3,
+                15
+            ],
+            "id": 3,
+            "words": [
+                {
+                    "box": [
+                        43,
+                        155,
+                        80,
+                        30
+                    ],
+                    "text": "Basic."
+                },
+                {
+                    "box": [
+                        43,
+                        155,
+                        80,
+                        30
+                    ],
+                    "text": "Pay"
+                }
+            ]
+        },
+        {
+            "box": [
+                423,
+                501,
+                37,
+                13
+            ],
+            "text": "Total Payments",
+            "label": "question",
+            "linking": [
+                4,
+                20
+            ],
+            "id": 4,
+            "words": [
+                {
+                    "box": [
+                        423,
+                        501,
+                        37,
+                        13
+                    ],
+                    "text": "Total"
+                },
+                {
+                    "box": [
+                        423,
+                        501,
+                        37,
+                        13
+                    ],
+                    "text": "Payments"
+                }
+            ]
+        },
+        {
+            "box": [
+                713,
+                521,
+                55,
+                13
+            ],
+            "text": "Income Tax",
+            "label": "question",
+            "linking": [
+                34,
+                5
+            ],
+            "id": 5,
+            "words": [
+                {
+                    "box": [
+                        713,
+                        521,
+                        55,
+                        13
+                    ],
+                    "text": "Income"
+                },
+                {
+                    "box": [
+                        713,
+                        521,
+                        55,
+                        13
+                    ],
+                    "text": "Tax"
+                }
+            ]
+        },
+        {
+            "box": [
+                611,
+                177,
+                60,
+                13
+            ],
+            "text": "National Insurance",
+            "label": "question",
+            "linking": [
+                6,
+                19
+            ],
+            "id": 6,
+            "words": [
+                {
+                    "box": [
+                        611,
+                        177,
+                        60,
+                        13
+                    ],
+                    "text": "National"
+                },
+                {
+                    "box": [
+                        678,
+                        177,
+                        73,
+                        13
+                    ],
+                    "text": "Insurance"
+                }
+            ]
+        },
+        {
+            "box": [
+                423,
+                501,
+                37,
+                13
+            ],
+            "text": "Total Payments",
+            "label": "question",
+            "linking": [
+                23,
+                7
+            ],
+            "id": 7,
+            "words": [
+                {
+                    "box": [
+                        423,
+                        501,
+                        37,
+                        13
+                    ],
+                    "text": "Total"
+                },
+                {
+                    "box": [
+                        423,
+                        501,
+                        37,
+                        13
+                    ],
+                    "text": "Payments"
+                }
+            ]
+        },
+        {
+            "box": [
+                423,
+                521,
+                37,
+                13
+            ],
+            "text": "Total Deductions",
+            "label": "question",
+            "linking": [
+                22,
+                8
+            ],
+            "id": 8,
+            "words": [
+                {
+                    "box": [
+                        423,
+                        521,
+                        37,
+                        13
+                    ],
+                    "text": "Total"
+                },
+                {
+                    "box": [
+                        423,
+                        521,
+                        37,
+                        13
+                    ],
+                    "text": "Deductions"
+                }
+            ]
+        },
+        {
+            "box": [
+                712,
+                501,
+                60,
+                14
+            ],
+            "text": "Taxable Gross Pay",
+            "label": "question",
+            "linking": [],
+            "id": 9,
+            "words": [
+                {
+                    "box": [
+                        712,
+                        501,
+                        60,
+                        14
+                    ],
+                    "text": "Taxable"
+                },
+                {
+                    "box": [
+                        778,
+                        501,
+                        45,
+                        14
+                    ],
+                    "text": "Gross"
+                },
+                {
+                    "box": [
+                        829,
+                        501,
+                        27,
+                        17
+                    ],
+                    "text": "Pay"
+                }
+            ]
+        },
+        {
+            "box": [
+                721,
+                645,
+                78,
+                20
+            ],
+            "text": "NET PAY",
+            "label": "question",
+            "linking": [
+                21,
+                10
+            ],
+            "id": 10,
+            "words": [
+                {
+                    "box": [
+                        721,
+                        645,
+                        78,
+                        20
+                    ],
+                    "text": "NET"
+                },
+                {
+                    "box": [
+                        721,
+                        645,
+                        78,
+                        20
+                    ],
+                    "text": "PAY"
+                }
+            ]
+        },
+        {
+            "box": [
+                713,
+                559,
+                71,
+                17
+            ],
+            "text": "Employer NIC",
+            "label": "question",
+            "linking": [
+                11,
+                26
+            ],
+            "id": 11,
+            "words": [
+                {
+                    "box": [
+                        713,
+                        559,
+                        71,
+                        17
+                    ],
+                    "text": "Employer"
+                },
+                {
+                    "box": [
+                        789,
+                        559,
+                        28,
+                        14
+                    ],
+                    "text": "NIC"
+                }
+            ]
+        },
+        {
+            "box": [
+                609,
+                155,
+                106,
+                20
+            ],
+            "text": "Income Tax",
+            "label": "question",
+            "linking": [
+                12,
+                24
+            ],
+            "id": 12,
+            "words": [
+                {
+                    "box": [
+                        609,
+                        155,
+                        106,
+                        20
+                    ],
+                    "text": "Income"
+                },
+                {
+                    "box": [
+                        609,
+                        155,
+                        106,
+                        20
+                    ],
+                    "text": "Tax"
+                }
+            ]
+        },
+        {
+            "box": [
+                713,
+                540,
+                74,
+                17
+            ],
+            "text": "Employee NIC",
+            "label": "question",
+            "linking": [
+                13,
+                25
+            ],
+            "id": 13,
+            "words": [
+                {
+                    "box": [
+                        713,
+                        540,
+                        74,
+                        17
+                    ],
+                    "text": "Employee"
+                },
+                {
+                    "box": [
+                        793,
+                        540,
+                        27,
+                        13
+                    ],
+                    "text": "NIC"
+                }
+            ]
+        },
+        {
+            "box": [
+                55,
+                469,
+                104,
+                20
+            ],
+            "text": "Mr ABC XYZ",
+            "label": "answer",
+            "linking": [
+                1,
+                14
+            ],
+            "id": 14,
+            "words": [
+                {
+                    "box": [
+                        48,
+                        463,
+                        28,
+                        34
+                    ],
+                    "text": "Mr"
+                },
+                {
+                    "box": [
+                        78,
+                        463,
+                        34,
+                        34
+                    ],
+                    "text": "ABC"
+                },
+                {
+                    "box": [
+                        114,
+                        463,
+                        44,
+                        34
+                    ],
+                    "text": "XYZ"
+                }
+            ]
+        },
+        {
+            "box": [
+                473,
+                154,
+                64,
+                26
+            ],
+            "text": "1,000.00",
+            "label": "answer",
+            "linking": [
+                3,
+                15
+            ],
+            "id": 15
+        },
+        {
+            "box": [
+                466,
+                174,
+                71,
+                26
+            ],
+            "text": "1,000.00",
+            "label": "answer",
+            "linking": [
+                4,
+                16
+            ],
+            "id": 16
+        },
+        {
+            "box": [
+                599,
+                96,
+                104,
+                26
+            ],
+            "text": "30-Apr-2016",
+            "label": "answer",
+            "linking": [
+                1,
+                17
+            ],
+            "id": 17,
+            "words": [
+                {
+                    "box": [
+                        599,
+                        96,
+                        104,
+                        26
+                    ],
+                    "text": "Apr-2016"
+                }
+            ]
+        },
+        {
+            "box": [
+                800,
+                94,
+                120,
+                24
+            ],
+            "text": "SC 56 52 10 C",
+            "label": "answer",
+            "linking": [
+                2,
+                18
+            ],
+            "id": 18,
+            "words": [
+                {
+                    "box": [
+                        806,
+                        100,
+                        22,
+                        14
+                    ],
+                    "text": "SC"
+                },
+                {
+                    "box": [
+                        823,
+                        85,
+                        29,
+                        37
+                    ],
+                    "text": "56"
+                },
+                {
+                    "box": [
+                        857,
+                        100,
+                        18,
+                        13
+                    ],
+                    "text": "52"
+                },
+                {
+                    "box": [
+                        881,
+                        89,
+                        34,
+                        24
+                    ],
+                    "text": "10"
+                },
+                {
+                    "box": [
+                        881,
+                        89,
+                        34,
+                        24
+                    ],
+                    "text": "C"
+                }
+            ]
+        },
+        {
+            "box": [
+                930,
+                178,
+                41,
+                13
+            ],
+            "text": "39.36",
+            "label": "answer",
+            "linking": [
+                6,
+                19
+            ],
+            "id": 19
+        },
+        {
+            "box": [
+                618,
+                502,
+                65,
+                16
+            ],
+            "text": "1,000.00",
+            "label": "answer",
+            "linking": [
+                4,
+                20
+            ],
+            "id": 20
+        },
+        {
+            "box": [
+                906,
+                648,
+                70,
+                24
+            ],
+            "text": "944.24",
+            "label": "answer",
+            "linking": [
+                10,
+                21
+            ],
+            "id": 21
+        },
+        {
+            "box": [
+                927,
+                193,
+                948,
+                20
+            ],
+            "text": "55.76",
+            "label": "answer",
+            "linking": [
+                22,
+                8
+            ],
+            "id": 22
+        },
+        {
+            "box": [
+                468,
+                172,
+                82,
+                24
+            ],
+            "text": "1,000.00",
+            "label": "answer",
+            "linking": [
+                7,
+                23
+            ],
+            "id": 23
+        },
+        {
+            "box": [
+                931,
+                521,
+                41,
+                14
+            ],
+            "text": "16.40",
+            "label": "answer",
+            "linking": [
+                12,
+                24
+            ],
+            "id": 24
+        },
+        {
+            "box": [
+                931,
+                541,
+                41,
+                13
+            ],
+            "text": "39.36",
+            "label": "answer",
+            "linking": [
+                13,
+                25
+            ],
+            "id": 25
+        },
+        {
+            "box": [
+                930,
+                560,
+                40,
+                13
+            ],
+            "text": "44.71",
+            "label": "answer",
+            "linking": [
+                11,
+                26
+            ],
+            "id": 26
+        },
+        {
+            "box": [
+                47,
+                656,
+                104,
+                11
+            ],
+            "text": "TAX Code:1100",
+            "label": "other",
+            "linking": [
+                27,
+                28
+            ],
+            "id": 27
+        },
+        {
+            "box": [
+                47,
+                656,
+                104,
+                11
+            ],
+            "text": "TAX Code:1100",
+            "label": "other",
+            "linking": [
+                27,
+                28
+            ],
+            "id": 28
+        },
+        {
+            "box": [
+                335,
+                648,
+                29,
+                28
+            ],
+            "text": "Tax Period",
+            "label": "question",
+            "linking": [
+                29,
+                30
+            ],
+            "id": 29,
+            "words": [
+                {
+                    "box": [
+                        335,
+                        648,
+                        29,
+                        28
+                    ],
+                    "text": "Tax"
+                },
+                {
+                    "box": [
+                        365,
+                        648,
+                        45,
+                        28
+                    ],
+                    "text": "Period"
+                }
+            ]
+        },
+        {
+            "box": [
+                475,
+                653,
+                134,
+                18
+            ],
+            "text": "Apr-2016",
+            "label": "answer",
+            "linking": [
+                29,
+                30
+            ],
+            "id": 30
+        },
+        {
+            "box": [
+                599,
+                656,
+                36,
+                11
+            ],
+            "text": "BACS",
+            "label": "question",
+            "linking": [
+                32,
+                31
+            ],
+            "id": 31
+        },
+        {
+            "box": [
+                487,
+                648,
+                53,
+                28
+            ],
+            "text": "Payment Method",
+            "label": "question",
+            "linking": [
+                32,
+                31
+            ],
+            "id": 32,
+            "words": [
+                {
+                    "box": [
+                        487,
+                        648,
+                        54,
+                        28
+                    ],
+                    "text": "Payment"
+                },
+                {
+                    "box": [
+                        540,
+                        648,
+                        53,
+                        28
+                    ],
+                    "text": "Method"
+                }
+            ]
+        },
+        {
+            "box": [
+                87,
+                100,
+                16,
+                14
+            ],
+            "text": "01",
+            "label": "answer",
+            "linking": [
+                33,
+                35
+            ],
+            "id": 33
+        },
+        {
+            "box": [
+                930,
+                159,
+                41,
+                13
+            ],
+            "text": "16.40",
+            "label": "answer",
+            "linking": [
+                34,
+                5
+            ],
+            "id": 34
+        },
+        {
+            "box": [
+                61,
+                77,
+                74,
+                14
+            ],
+            "text": "EMPLOYEE No",
+            "label": "question",
+            "linking": [
+                33,
+                35
+            ],
+            "id": 35,
+            "words": [
+                {
+                    "box": [
+                        61,
+                        77,
+                        74,
+                        14
+                    ],
+                    "text": "EMPLOYEE"
+                },
+                {
+                    "box": [
+                        61,
+                        77,
+                        74,
+                        14
+                    ],
+                    "text": "No"
+                }
+            ]
+        }
+    ]
+}
